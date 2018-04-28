@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <?php
 $id = intval($_POST['id']);
 if($id=="adc"){
 mysql_query("UPDATE users(confirmed) VALUES('1'));
 }
+=======
+<?php
+$id = intval($_POST['id']);
+if($id=="adc"){
+mysql_query("UPDATE users(confirmed) VALUES('1'));
+}
+>>>>>>> eb164386b2ef304c5567e42c72fe4a3339ba2049
 ?>

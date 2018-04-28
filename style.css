@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "utf-8";
 /* CSS Document */
 
@@ -13,3 +14,20 @@
 #wrapper{
 	padding-top:50px;
 }
+=======
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+#login-form {
+	margin:5% auto;
+	max-width:500px;
+}
+/* home page */
+#wrapper{
+	padding-top:50px;
+}
+>>>>>>> eb164386b2ef304c5567e42c72fe4a3339ba2049
