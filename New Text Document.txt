@@ -1,0 +1,6 @@
+<?php
+$id = intval($_POST['id']);
+if($id=="adc"){
+mysql_query("UPDATE users(confirmed) VALUES('1'));
+}
+?>
