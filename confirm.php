@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 <?php
 	ob_start();
 	session_start();
@@ -32,5 +32,5 @@
   $con = "$userRow[confirmed]";
   echo $con; // should be an integer
 ?>
->>>>>>> eb164386b2ef304c5567e42c72fe4a3339ba2049
+
 <?php ob_end_flush(); ?>
