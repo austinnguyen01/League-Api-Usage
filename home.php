@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 ob_start();
 session_start();
@@ -762,4 +762,4 @@ function confirm()
 </body>
 </html>
 <?php ob_end_flush(); ?>
->>>>>>> eb164386b2ef304c5567e42c72fe4a3339ba2049
+
